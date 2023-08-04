@@ -1,11 +1,11 @@
 {
   "name": "@aaronmatharoo/expo-multiple-image-select",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "peerDependencies": {
     "expo-permissions": "^x.x.x",
     "expo-image-picker": "^x.x.x"
   },
-  "description": "Package for multiple image selection in Expo/React Native environment.",
+  "description": "Package for multiple image selection in Expo/React Native environment. NOTE: expo-permissions AND expo-image-picker must be dependencies of your project in order to achieve full functionality with this dependency.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
