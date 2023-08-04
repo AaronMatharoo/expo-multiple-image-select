@@ -1,6 +1,6 @@
 {
   "name": "@aaronmatharoo/expo-multiple-image-select",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "peerDependencies": {
     "expo-permissions": "^x.x.x",
     "expo-image-picker": "^x.x.x"
