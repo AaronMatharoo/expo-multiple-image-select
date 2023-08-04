@@ -1,0 +1,30 @@
+{
+  "name": "@aaronmatharoo/expo-multiple-image-select",
+  "version": "1.0.0",
+  "peerDependencies": {
+    "expo-permissions": "^x.x.x",
+    "expo-image-picker": "^x.x.x"
+  },
+  "description": "Package for multiple image selection in Expo/React Native environment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronMatharoo/expo-multiple-image-select.git"
+  },
+  "keywords": [
+    "Expo",
+    "React-Native",
+    "Expo-Go",
+    "Image-Select",
+    "Multiple-Image-Select"
+  ],
+  "author": "Aaron Matharoo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronMatharoo/expo-multiple-image-select/issues"
+  },
+  "homepage": "https://github.com/AaronMatharoo/expo-multiple-image-select#readme"
+}
